@@ -1,0 +1,2 @@
+include ':app', ':TabBarViewLibrary'
+project(':TabBarViewLibrary').projectDir = new File('libraries/TabBarViewLibrary')
